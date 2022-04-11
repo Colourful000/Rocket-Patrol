@@ -43,4 +43,3 @@ class Rocket extends Phaser.GameObjects.Sprite {
   }
 
 
-  // want
